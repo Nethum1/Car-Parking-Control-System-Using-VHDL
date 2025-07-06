@@ -1,6 +1,9 @@
 # Car-Parking-Control-System-Using-VHDL
 A VHDL-based car parking system using FSM with sensor input, password verification, LED indicators, and 7-segment display. Simulates entry control and vehicle flow with a testbench and waveform validation in Vivado.
 
+![Uploading Screenshot 2025-06-19 095627.png…]()
+
+
 🚗 Car Parking System using VHDL and FSM
 
 This project implements a Car Parking System using VHDL based on a Finite State Machine (FSM) architecture. It simulates the behavior of a real-world automated parking gate system, with access control via password input and vehicle detection using front and back sensors.
@@ -38,7 +41,7 @@ Simulation:
 
 * Fully verified using testbench in Vivado or ModelSim.
 
-*Includes waveform output for validation.
+* Includes waveform output for validation.
 
 
 🛠️ Tools & Technologies:
